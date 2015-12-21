@@ -7,7 +7,7 @@
  * Implementation of the algorithm described in "A two-stage correlation method for stereoscopic depth estimation" 
  * by Nils Einecke, and Julian Eggert [DICTA, page 227-234. IEEE Computer Society, (2010)]
  *
- * Note that algorithm can be strongly speed-up.
+ * Note that algorithm can be strongly speeded-up.
  *
  */
 
