@@ -1,8 +1,9 @@
 # dispev
+
+![alt tag](http://i.imgur.com/ZLMHmNV.gif)
+
 **dispev** is a C++ implementation of the matching algorithm for stereoscopic DISParity EValuation described in [A two-stage correlation method for stereoscopic depth estimation](html://ieeexplore.ieee.org/xpls/abs_all.jsp?arnumber=5692569)
  by Nils Einecke, and Julian Eggert (DICTA, page 227-234. IEEE Computer Society, 2010).
-
-![alt tag](http://imgur.com/ZLMHmNV)
  
 Algorithm implementation uses OpenCV 2.4.10 and it is preconfigured for being compiled with Visual Studio 2010.
 All the required dependancy files are included in the zip file (version x64, vc10).
